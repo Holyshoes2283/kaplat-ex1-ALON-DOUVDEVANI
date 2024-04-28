@@ -1,1 +1,3 @@
 banana
+second line from step G
+third line from step O (commit C6)
